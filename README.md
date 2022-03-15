@@ -1,2 +1,2 @@
-# SistemaEscolar
+# primaria
 Sistema escolar de calificaciones
